@@ -97,11 +97,6 @@ model = joblib.load('xgboost_model.joblib')
 
 ---
 
-## 📜 License
-This project is licensed under the MIT License.
-
----
-
 ## 💻 Author
 **Rahul Halli**
 
